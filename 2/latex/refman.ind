@@ -1,0 +1,19 @@
+\begin{theindex}
+
+  \item {decrypt}
+    \subitem {modAlphaCipher}, \hyperpage{6}
+
+  \indexspace
+
+  \item {encrypt}
+    \subitem {modAlphaCipher}, \hyperpage{6}
+
+  \indexspace
+
+  \item {modAlphaCipher}, \hyperpage{5}
+    \subitem {decrypt}, \hyperpage{6}
+    \subitem {encrypt}, \hyperpage{6}
+    \subitem {modAlphaCipher}, \hyperpage{5}
+  \item {modAlphaCipher.h}, \hyperpage{7}
+
+\end{theindex}
